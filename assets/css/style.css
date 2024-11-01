@@ -61,7 +61,7 @@ header .row .right .row .numbr{
 .h-section {
     width: 100%;
     height: auto;
-    background-image: url(/assets/images/banner2.jpg);
+    background-image: url('./images/banner2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

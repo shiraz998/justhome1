@@ -228,7 +228,7 @@ header .row .right .row .numbr{
     background-color: #fff;
 }
 .s-two .row .card .b-one {
-    background-image: url(/assets/images/home1.png);
+    background-image: url(../images/home1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

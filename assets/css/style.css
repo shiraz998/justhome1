@@ -61,7 +61,7 @@ header .row .right .row .numbr{
 .h-section {
     width: 100%;
     height: auto;
-    background-image: url('./images/banner2.jpg');
+    background-image: url(../images/banner2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -128,7 +128,7 @@ header .row .right .row .numbr{
     margin-top: 70px;
 }
 .s-one .row .b-one {
-    background-image: url(/assets/images/h81.png);
+    background-image: url(../images/h81.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -137,7 +137,7 @@ header .row .right .row .numbr{
     padding: 40px 40px 200px 40px;
 }
 .s-one .row .b-two {
-    background-image: url(/assets/images/h82.png);
+    background-image: url(../images/h82.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,7 +146,7 @@ header .row .right .row .numbr{
     padding: 40px 40px 200px 40px;
 }
 .s-one .row .b-three {
-    background-image: url(/assets/images/h83.png);
+    background-image: url(../images/h83.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -155,7 +155,7 @@ header .row .right .row .numbr{
     padding: 40px 40px 200px 40px;
 }
 .s-one .row .b-four {
-    background-image: url(/assets/images/h84.png);
+    background-image: url(../images/h84.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -164,7 +164,7 @@ header .row .right .row .numbr{
     padding: 40px 40px 200px 40px;
 }
 .s-one .row .b-five {
-    background-image: url(/assets/images/h85.png);
+    background-image: url(../images/h85.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,7 +238,7 @@ header .row .right .row .numbr{
     border-radius: 16px;
 }
 .s-two .row .card .b-two {
-    background-image: url(/assets/images/home2.png);
+    background-image: url(../images/home2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -248,7 +248,7 @@ header .row .right .row .numbr{
     border-radius: 16px;
 }
 .s-two .row .card .b-three {
-    background-image: url(/assets/images/home3.png);
+    background-image: url(../images/home3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -258,7 +258,7 @@ header .row .right .row .numbr{
     border-radius: 16px;
 }
 .s-two .row .card .b-four {
-    background-image: url(/assets/images/home4.png);
+    background-image: url(../images/home4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -268,7 +268,7 @@ header .row .right .row .numbr{
     border-radius: 16px;
 }
 .s-two .row .card .b-five {
-    background-image: url(/assets/images/home5.png);
+    background-image: url(../images/home5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -278,7 +278,7 @@ header .row .right .row .numbr{
     border-radius: 16px;
 }
 .s-two .row .card .b-six {
-    background-image: url(/assets/images/home6.png);
+    background-image: url(../images/home6.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
